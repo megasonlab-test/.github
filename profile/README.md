@@ -1,4 +1,4 @@
-## Welcome.
+## Welcome
 
 Welcome to the repository of the [Megason Lab](http://www.digitalfish.org/) at Harvard Medical School.
 Here, you will find software, methods, and documentation for public projects.
